@@ -1,0 +1,16 @@
+@charset "UTF-8";
+table {
+	  width: 260px;  /*幅：260px*/
+}
+table,th,td {
+       border: 1px solid #bbb;  /*線の太さ：1px　実線 色：グレー*/
+ }
+input{
+	 border-style:none;   /*線なし*/
+}
+.box{
+width:480px;
+border:10px #dddddd solid;
+margin-bottom:20px;
+text-align: center;
+}
